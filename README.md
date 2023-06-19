@@ -1,6 +1,6 @@
 # Byeon Sang Hyeon 😁
 
-![SHyeonCoding's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHyeonCoding&show_icons=true&theme=radical)
+![SHyeonCoding's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHyeonCoding&show_icons=true&theme=highcontrast)
 
 # 🛠 Skills
 ### Platforms & Languages
